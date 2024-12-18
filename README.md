@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Emma!
+❄️ North Sweden <br>
 👩‍🎓 Studied Computer Network at Luleå Technical University<br>
 🌱 I’m currently learning C# <br>
+⚡️ Fun fact: I have a Ragdoll and play a lot of WoW 🦁 <br>
+
+
 
 
 # 💻 Tech Stack
